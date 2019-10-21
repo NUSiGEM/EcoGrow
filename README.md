@@ -1,4 +1,4 @@
-# Software currently doesn't support MacOS
+##### Software currently doesn't support MacOS
 # Windows Packaged Installation (Recommended):
 Go to Releases and download then run EcoGrow_Vx_PackagedInstallation.exe.
 Once the installation is complete, run EcoGrow.exe from the start menu.
@@ -10,8 +10,8 @@ A UI_Figure Window will popup containing the software GUI
 3. Once the installation is complete, run EcoGrow.exe from the start menu.
 4. A loading screen will appear and may disappear. Rest assured this means the software is booting.
 4. A UI_Figure Window will popup containing the software GUI. Please wait for the whole window to be booted (This can be seen by the Ready sign, and the left hand tabs are populated)
-# 5. If resizing errors occur, this is because the window needs to booted. 
-# Please restart the EcoGrow.exe and wait one minute after the window appears. 
+### 5. If resizing errors occur, this is because the window needs to booted. 
+### Please restart the EcoGrow.exe and wait one minute after the window appears. 
 6. After the software has launched please read the welcome guide before using the program. 
 7. Enjoy long living bacteria!
 
