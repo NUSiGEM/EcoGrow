@@ -7,4 +7,4 @@ Our E.co Grow software allows users to run hundreds of simulations in order to g
 
 
 # User Guide
-21/10/2019  Currently only SgrS and HicA- HicB are working
+21/10/2019  Currently only SgrS and HicA-HicB are working
