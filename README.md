@@ -5,8 +5,8 @@
 3. Once the installation is complete, run EcoGrow.exe from the start menu.
 4. A loading screen will appear and may disappear. Rest assured this means the software is booting.
 5. A UI_Figure Window will popup containing the software GUI. Please wait for the whole window to be booted (This can be seen by the Ready sign, and the left hand tabs are populated)
-##### 6. If resizing errors occur, this is because the window needs to booted. 
-##### Please restart the EcoGrow.exe and wait one minute after the window appears. 
+***6. If resizing errors occur, this is because the window needs to booted.***
+***Please restart the EcoGrow.exe and wait one minute after the window appears.*** 
 7. After the software has launched please read the welcome guide before using the program. 
 8. Enjoy long living bacteria!
 
@@ -28,4 +28,4 @@ Our E.co Grow software allows users to run hundreds of simulations in order to g
 
 For more information about the software please visit: https://2019.igem.org/Team:NUS_Singapore/Software
 
-For more information about the models used, please visit: https://2019.igem.org/Team:NUS_Singapore/Description#ControlSystems 
+For more information about the models used, please visit:https://2019.igem.org/Team:NUS_Singapore/Description#ControlSystems 
